@@ -23,7 +23,7 @@ Spatio-Temporal Erosion Modelling for Gully Management
 
 Applied Land Use Change Detection
 
-📄 Full technical portfolio available in:
+📄 Full technical portfolio available on www.linkedin.com/in/ndungutse-appolinaire-31110b268
 Evidence_GIS_Remote_Sensing_Portfolio.pdf
 
 #GIS #RemoteSensing #LandAdministration #SpatialAnalysis #BoundaryCorrection #UrbanPlanning
